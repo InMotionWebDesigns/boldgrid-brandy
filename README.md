@@ -21,3 +21,4 @@ Designed specifically for use with the BoldGrid suite of plugins, all BoldGrid t
 
 ## This is practice for using git
 Can I pull this down to my local environment?
+Yes! Yes, I can :)
