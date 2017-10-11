@@ -182,7 +182,7 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 	$boldgrid_framework_configs['customizer-options']['typography']['enabled'] = true;
 
 	// Typography Headings.
-	$boldgrid_framework_configs['customizer-options']['typography']['defaults']['headings_font_family'] = 'Heebo';
+	$boldgrid_framework_configs['customizer-options']['typography']['defaults']['headings_font_family'] = 'Indie Flower';
 	$boldgrid_framework_configs['customizer-options']['typography']['defaults']['headings_font_size'] = 18;
 	$boldgrid_framework_configs['customizer-options']['typography']['defaults']['headings_text_transform'] = 'uppercase';
 
