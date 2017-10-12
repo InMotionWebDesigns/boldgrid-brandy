@@ -130,7 +130,7 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 				'#009900',
 				'#ffffff',
 				'#000000',
-				'#ff00ff',
+				'#0000ff',
 				'#00ff00',
 			),
 		),
